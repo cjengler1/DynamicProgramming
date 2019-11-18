@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 17 18:23:25 2019
-
-@author: joe
-"""
-
 
 import gridworld
 import numpy as np
